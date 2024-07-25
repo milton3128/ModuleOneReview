@@ -1,0 +1,15 @@
+/Users/dhemari/repos/ModuleOneReview/ModuleOneReview/obj/Debug/net7.0/ModuleOneReview.csproj.AssemblyReference.cache
+/Users/dhemari/repos/ModuleOneReview/ModuleOneReview/obj/Debug/net7.0/ModuleOneReview.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dhemari/repos/ModuleOneReview/ModuleOneReview/obj/Debug/net7.0/ModuleOneReview.AssemblyInfoInputs.cache
+/Users/dhemari/repos/ModuleOneReview/ModuleOneReview/obj/Debug/net7.0/ModuleOneReview.AssemblyInfo.cs
+/Users/dhemari/repos/ModuleOneReview/ModuleOneReview/obj/Debug/net7.0/ModuleOneReview.csproj.CoreCompileInputs.cache
+/Users/dhemari/repos/ModuleOneReview/ModuleOneReview/bin/Debug/net7.0/ModuleOneReview
+/Users/dhemari/repos/ModuleOneReview/ModuleOneReview/bin/Debug/net7.0/ModuleOneReview.deps.json
+/Users/dhemari/repos/ModuleOneReview/ModuleOneReview/bin/Debug/net7.0/ModuleOneReview.runtimeconfig.json
+/Users/dhemari/repos/ModuleOneReview/ModuleOneReview/bin/Debug/net7.0/ModuleOneReview.dll
+/Users/dhemari/repos/ModuleOneReview/ModuleOneReview/bin/Debug/net7.0/ModuleOneReview.pdb
+/Users/dhemari/repos/ModuleOneReview/ModuleOneReview/obj/Debug/net7.0/ModuleOneReview.dll
+/Users/dhemari/repos/ModuleOneReview/ModuleOneReview/obj/Debug/net7.0/refint/ModuleOneReview.dll
+/Users/dhemari/repos/ModuleOneReview/ModuleOneReview/obj/Debug/net7.0/ModuleOneReview.pdb
+/Users/dhemari/repos/ModuleOneReview/ModuleOneReview/obj/Debug/net7.0/ModuleOneReview.genruntimeconfig.cache
+/Users/dhemari/repos/ModuleOneReview/ModuleOneReview/obj/Debug/net7.0/ref/ModuleOneReview.dll
